@@ -34,7 +34,6 @@ Our approach involves several key steps:
 4. **Validation & Testing:**  
    Evaluating model performance using cross-validation and metrics such as accuracy, precision, recall, and AUC.
 
----
 
 ## Project Structure 🗃️
 
