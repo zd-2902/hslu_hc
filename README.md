@@ -2,12 +2,10 @@
 
 Welcome to our project! This initiative harnesses the power of data science to drive insights and innovations in health care—improving patient outcomes, optimizing resource allocation, and enhancing the overall efficiency of healthcare systems. ✨
 
----
 
 ## Overview 📋
 Our project leverages data science techniques—including statistical analysis, machine learning, and interactive visualizations—to extract meaningful insights from complex healthcare data. Our aim is to drive actionable change in how healthcare is delivered and managed. 🚀
 
----
 
 ## Motivation ❤️
 
@@ -16,14 +14,12 @@ Health care today is facing unprecedented challenges such as rising costs, an ag
 - **Optimizes resource allocation** by pinpointing inefficiencies.
 - **Generates actionable insights** that empower medical professionals and policymakers.
 
----
 
 ## Data Sources 🔍
 
 We integrate diverse data sources to build a comprehensive view of health care trends:
 - **Public Datasets:**  
   - [Kaggle Healthcare Datasets](https://www.kaggle.com/) 📊
----
 
 ## Methodology 🛠️
 
